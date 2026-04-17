@@ -1,5 +1,5 @@
 # Artificial-Intelligence-and-Machine-Learning-Group-Assignment
-Machine learning project predicting stock price direction using Logistic Regression and LSTM. Includes feature engineering, time-series modelling, and evaluation (ROC-AUC, F1). Highlights challenges like class imbalance and trend bias in financial prediction
+Machine learning project predicting stock price direction using Logistic Regression and LSTM. Includes feature engineering, time-series modelling, and evaluation (ROC-AUC, F1). Highlights challenges like class imbalance and trend bias in financial prediction.
 
 
 This project develops and evaluates machine learning models to predict stock price direction using historical OHLCV (Open, High, Low, Close, Volume) data spanning 2022–2024. The objective was to assess the effectiveness of both traditional machine learning and deep learning approaches in a real-world financial forecasting context.
